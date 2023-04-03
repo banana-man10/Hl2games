@@ -1,54 +1,5 @@
-# HL2games
+A gaming website mainly for my School but Anyone can use this if you wanna!
+i dont have any of those cool buttons open source gaming websites on github do but manually clone it i guess. make sure to follow the creative commons license if you do copy this
 
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Tura ip
-Ip ik, tura ip
-Ip, turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Tura ip
-Ip ik, tura ip
-Ip, turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
-Turi ip ip ip
-Ip ip ip ip tsha ik
-Ip tura ip ik
-Eugh eugh isha ik turisha
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/williammcdowell2/HL2games?style=for-the-badge)
+im gonna start adding releases soon dw <3
