@@ -77,5 +77,6 @@ h3 {
   background-color: rgb(220, 48, 48);
   border-radius: 10px;
   min-width: 10px;
+  max-width: 50%;
 
 }
