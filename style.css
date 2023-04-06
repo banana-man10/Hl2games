@@ -71,3 +71,11 @@ h3 {
   display: grid;
   justify-content: space-evenly;
 }
+
+.notworking {
+  align-self: center;
+  background-color: rgb(220, 48, 48);
+  border-radius: 10px;
+  min-width: 10px;
+
+}
