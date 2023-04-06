@@ -3,3 +3,5 @@ i dont have any of those cool buttons open source gaming websites on github do b
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/williammcdowell2/HL2games?style=for-the-badge)
 im gonna start adding releases soon dw <3
+
+![https://img.shields.io/badge/NO%20AI-Make%20With%20Brains-ff69b4?style=for-the-badge&logo=appveyor]
