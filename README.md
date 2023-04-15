@@ -3,4 +3,4 @@ i dont have any of those cool buttons open source gaming websites on github do b
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
-No Ai bullshit
+[![Deploy site to live](https://github.com/williammcdowell2/HL2games/actions/workflows/main.yml/badge.svg)](https://github.com/williammcdowell2/HL2games/actions/workflows/main.yml)
