@@ -1,3 +1,8 @@
+<h1> insert logo here <h1>
+<br>
+<br>
+<br>
+
 A gaming website mainly for my School but Anyone can use this if you wanna!
 <br>
 i dont have any of those cool buttons open source gaming websites on github do but manually clone it i guess. make sure to follow the creative commons license if you do copy this.
