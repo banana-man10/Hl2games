@@ -1,8 +1,12 @@
+<div align="center">
+
 <h1> insert logo here </h1>
 <h2> no logo? </h2>
 <br>
 <br>
 <br>
+
+
 
 A gaming website mainly for my School but Anyone can use this if you wanna!
 <br>
