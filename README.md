@@ -1,4 +1,5 @@
-<h1> insert logo here <h1>
+<h1> insert logo here </h1>
+<h2> no logo? </h2>
 <br>
 <br>
 <br>
