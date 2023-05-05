@@ -87,14 +87,11 @@ h3 {
   max-width: 50%;
 
 }
-<<<<<<< HEAD
-
 .alerts {
   background-color: red;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
 }
-=======
 
 .iframe {
   position: absolute; 
@@ -103,4 +100,19 @@ h3 {
   margin: 0px; 
   padding:0px;
 }
->>>>>>> 7861eb62ef312547f7cfe493e7091344268190b2
+
+.navigation {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(50, 50, 50);
+  background-color: rgb(56, 56, 56);
+  font-size: px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation a {
+  margin: 0 5px;
+}
